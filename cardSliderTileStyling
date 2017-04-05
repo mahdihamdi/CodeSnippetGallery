@@ -1,0 +1,22 @@
+<style>
+.card-panel-title {
+font-size: 36px !important;
+font-family: 'Segoe UI Light';
+font-weight: 400;
+text-align: center;
+}
+.cardslider-image {
+background-size: cover !important;
+height: 100% !important;
+}
+
+.cardslider-slide-title {
+position: absolute;
+bottom: 0px;
+z-index: 99;
+width: 100%;
+height: auto!important;
+min-height: 33%;
+background-color: transparent !important;
+}
+</style>
